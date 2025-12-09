@@ -168,14 +168,15 @@ Potential extensions:
 - t-SNE and UMAP visualizations  
 - Approximate nearest-neighbor search (FAISS, Annoy)
 
+---
+
+## 📄 9. License
+
+This project is released under the **MIT License**, permitting unrestricted academic and educational use.
+
 <p align="center">
   <strong> 🔥📘💻 More Codes and Tutorials are available at:</strong><br>
   <a href="https://github.com/sajjadbaghaee">
     <img src="https://img.shields.io/badge/GitHub-sajjadbaghaee-blue?logo=github">
   </a>
 </p>
----
-
-## 📄 9. License
-
-This project is released under the **MIT License**, permitting unrestricted academic and educational use.
