@@ -32,7 +32,6 @@ The goal is to showcase both **KNN’s strengths** and **PCA’s importance** in
 .
 ├── mnist_knn_classification.ipynb     # Main notebook: KNN + PCA workflow
 ├── README.md                          # Project documentation (this file)
-└── (optional future folders)
 ```
 
 ---
