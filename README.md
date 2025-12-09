@@ -171,6 +171,12 @@ Potential extensions:
 - t-SNE and UMAP visualizations  
 - Approximate nearest-neighbor search (FAISS, Annoy)
 
+<p align="center">
+  <strong> 🔥📘💻 More Codes and Tutorials are available at:</strong><br>
+  <a href="https://github.com/sajjadbaghaee">
+    <img src="https://img.shields.io/badge/GitHub-sajjadbaghaee-blue?logo=github">
+  </a>
+</p>
 ---
 
 ## 📄 9. License
