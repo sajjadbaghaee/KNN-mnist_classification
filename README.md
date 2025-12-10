@@ -170,10 +170,6 @@ Potential extensions:
 
 ---
 
-## 📄 9. License
-
-This project is released under the **MIT License**, permitting unrestricted academic and educational use.
-
 <p align="center">
   <strong> 🔥📘💻 More Codes and Tutorials are available at:</strong><br>
   <a href="https://github.com/sajjadbaghaee">
